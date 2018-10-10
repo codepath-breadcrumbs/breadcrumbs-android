@@ -44,3 +44,19 @@ Breadcrumbs is a tool designed around your offline, off-the-grid life, helping y
     
 4. Photo activity shows the photo for a day in full screen
     1. There should be a back button to take user back to the edit/view for the given check-in
+    
+## Wireframes
+### Login Activity
+![login activity](https://github.com/codepath-breadcrumbs/breadcrumbs-android/blob/master/assets/LoginActivity.png?raw=true)
+
+### Main Activity
+![main activity](https://github.com/codepath-breadcrumbs/breadcrumbs-android/blob/master/assets/MainActivity.png?raw=true)
+
+### Edit Activity
+![edit activity](https://github.com/codepath-breadcrumbs/breadcrumbs-android/blob/master/assets/EditActivity.png?raw=true)
+
+### Empty Edit Activity
+![empty edit activity](https://github.com/codepath-breadcrumbs/breadcrumbs-android/blob/master/assets/EmptyEditActivity.png?raw=true)
+
+### Photo Activity
+![photo activity](https://github.com/codepath-breadcrumbs/breadcrumbs-android/blob/master/assets/PhotoActivity.png?raw=true)
